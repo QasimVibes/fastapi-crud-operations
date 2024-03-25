@@ -45,8 +45,6 @@ Each student object should have the following attributes:
     poetry run dev
     ```
 
-    This command will start the FastAPI application locally. The `--reload` option enables automatic reloading of the server when changes are made to the source code.
-
 4. **Access the API documentation:**
     Once the application is running, you can access the API documentation by visiting [http://localhost:8080/docs](http://localhost:8080/docs) in your web browser. This interactive documentation is generated automatically by FastAPI and provides details about the available endpoints, request/response schemas, and allows you to test the API endpoints directly from the browser.
 
